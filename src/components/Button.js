@@ -32,7 +32,7 @@ export class Button extends Component {
                <button name="0" onClick={e=>this.props.onClick(e.target.name)}>0</button> 
                <button className="equal" name="=" onClick={e=>this.props.onClick(e.target.name)}>=</button> 
 
-               <h5>Designed By:<a href="http://www.prajjwalrai.com.np">Prajwal</a></h5>
+               <h5>Designed & Developed By:<a href="http://www.prajjwalrai.com.np">Prajwal</a></h5>
             </div>
         )
     }
