@@ -1,4 +1,6 @@
-This is a simple calculator building by using ReactJs.
+This is a simple calculator built by using ReactJs.
+
+![calculator](https://user-images.githubusercontent.com/29488275/61550356-f3cf8280-aa71-11e9-9ddf-127c38bce1df.PNG)
 
 ## Available Scripts
 
