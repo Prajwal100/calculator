@@ -1,6 +1,6 @@
 This is a simple calculator built by using ReactJs.
 
-![calculator](https://user-images.githubusercontent.com/29488275/61550356-f3cf8280-aa71-11e9-9ddf-127c38bce1df.PNG)
+<a href="https://imgflip.com/gif/361xq8"><img src="https://i.imgflip.com/361xq8.gif" title="made at imgflip.com"/></a>
 
 ## Available Scripts
 
