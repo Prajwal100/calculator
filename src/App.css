@@ -1,0 +1,55 @@
+body,html{
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+  "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+  sans-serif;
+  background:#999;
+
+}
+.cal-body{
+  margin:auto;
+  text-align: center;
+}
+h1{
+  color:greenyellow;
+  text-transform: uppercase;
+  font-size: 40px;
+  font-style: italic;
+}
+.display{
+  height:50px;
+  border-radius:6px 6px 0 0;
+  width:23%;
+  background:white;
+  margin:auto;
+  padding-top:10px;
+  border:1px solid rgb(151, 147, 147);
+  background:#ddd;
+  padding:16px 0;   
+  box-shadow: 10px 10px 10px;
+}
+button{
+  height:50px;
+  width:65px;   
+  background:rgb(71, 69, 69);
+  color:white;
+  border-radius: 4px;
+  padding:10px;
+  margin:2px;
+}
+.all-button{
+  width:23%;
+  background:white;
+  margin:auto;
+  padding-bottom:2px;
+  border-radius: 0 0 4px 4px;
+  box-shadow: 10px 10px 10px
+}
+a{
+  text-decoration: none;
+}
+h5{
+  font-style: italic;
+}
+.equal{
+  width:130px;
+}
